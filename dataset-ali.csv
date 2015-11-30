@@ -19,3 +19,13 @@ problem_number,problem_index,answer_id,algorithm
 129,b,867872,bfs
 129,b,872119,bfs
 129,b,879102,bfs
+129,c,869568,bfs
+129,c,872073,dfs
+129,c,872364,bfs
+129,c,872542,bfs
+129,c,872782,dfs
+129,c,873067,bfs
+129,c,873372,bfs
+129,c,873476,bfs
+129,c,875010,dfs
+129,c,986715,bfs
